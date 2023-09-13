@@ -4,7 +4,6 @@ table,th,td{
 	background-color:yellow;
 	font-size:35px;
 }
-#label{
-	font-size:35px;	
-	margin-left:60px;
+caption{
+	font-size:30px;
 }
